@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type" : "model",
+        "model" : "void:item/sculk_mask"
+    }
+}

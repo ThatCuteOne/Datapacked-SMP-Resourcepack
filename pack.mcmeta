@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "description": "Texturepack for Datapacked SMP S2",
+        "pack_format": 46,
+        "supported_formats":[15,320],
+        "aurhors":[
+            "ThatCuteOne"
+        ]
+    }
+}

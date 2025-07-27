@@ -1,0 +1,9 @@
+{
+    "layers": {
+      "humanoid": [
+        {
+          "texture": "void:sculk_mask"
+        }
+      ]
+    }
+  }
