@@ -1,0 +1,22 @@
+{
+  "song": {
+    "sounds": [
+        {
+        "name":"oiiaioooooiai:song",
+        "stream": true
+
+        }
+    ]  
+    },
+    
+        "extended_song": {
+          "sounds": [
+              {
+              "name":"oiiaioooooiai:extended_song",
+              "stream": true
+      
+              }
+          ]  
+          }
+      
+}

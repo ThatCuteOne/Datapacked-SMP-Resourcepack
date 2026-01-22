@@ -1,0 +1,30 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:enchantments",
+    "cases": [
+      {
+        "when": {
+            "citems:item/blunt/lit": 1
+        },
+        "model": {
+          "type": "minecraft:condition",
+          "property": "using_item",
+          "on_false": {
+            "type": "model",
+            "model": "citems:item/blunt/lit"
+          },
+          "on_true": {
+            "type": "model",
+            "model": "citems:item/blunt/lit_in_hand"
+          }
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "citems:item/blunt/"
+    }
+  }
+}

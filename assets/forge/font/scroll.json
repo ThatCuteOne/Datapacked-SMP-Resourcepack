@@ -1,0 +1,21 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "forge:font/scroll.png",
+            "ascent": -18,
+            "chars": [
+                "ab",
+                "cd"
+        ],
+            "height": 148
+        },
+        {
+            "type": "space",
+            "advances": {
+                " ": -2,
+                "-": -180
+            }
+        }
+    ]
+}
